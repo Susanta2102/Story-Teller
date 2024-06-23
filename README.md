@@ -3,7 +3,7 @@
 This Streamlit web app lets you unleash your creativity by generating stories based on uploaded images using Google's GenerativeAI service (Gemini-Pro).
 
 ### Run on Streamlit
-[Image to Story generator](https://story-teller.streamlit.app/)
+[Image to Story generator]((https://story-teller-ix.streamlit.app/))
 
 ## 1. Features:
 
